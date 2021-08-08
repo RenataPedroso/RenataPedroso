@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Renata :D
 
-- 🌱 Estudando Java com Spring Framework e Angular 10
-- 📫 Me contate em renatanicollyy1@gmail.com
-- 😄 Pronúncia: ela/dela
+🌱 Estudando Java com Spring Framework e Angular 10
+📫 Me contate em renatanicollyy1@gmail.com
+😄 Pronúncia: ela/dela
 <div>
   <a href="https://github.com/RenataPedroso">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
