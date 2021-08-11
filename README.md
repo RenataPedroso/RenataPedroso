@@ -1,5 +1,4 @@
 ### Olá! Eu sou a Renata :D
-
 - 🌱 Estudando Java com Spring Framework e Angular 10
 - 📫 Me contate em renatanicollyy1@gmail.com
 - 😄 Pronúncia: ela/dela
