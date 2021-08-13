@@ -28,5 +28,5 @@
   
   ![Snake animation](https://github.com/RenataPedroso/RenataPedroso/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
+      
 ##
