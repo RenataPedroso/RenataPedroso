@@ -2,10 +2,10 @@
 - 🌱 Estudando Java com Spring Framework e Angular 10
 - 📫 Me contate em renatanicollyy1@gmail.com
 - 😄 Pronúncia: ela/dela
-<div>
+ <div>
   <a href="https://github.com/RenataPedroso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPedroso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPedroso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>  
   <div style="display: inline_block"><br>
