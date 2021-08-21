@@ -1,4 +1,8 @@
 ### Olá! Eu sou a Renata :D
+Me reencontrei em um código <3 e hoje isso se tornou o que eu mais amo fazer
+
+###
+
 - 🌱 Estudando Java com Spring Framework e Angular 10
 - 📫 Me contate em renatanicollyy1@gmail.com
 - 😄 Pronúncia: ela/dela
