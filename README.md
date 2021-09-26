@@ -13,7 +13,7 @@ Me reencontrei em um código <3 e hoje isso se tornou o que eu mais amo fazer
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPedroso&layout=compact&langs_count=10&theme=dracula"/>
 </div>
  
-[![RenataPedroso's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenataPedroso)](https://github.com/anuraghazra/github-readme-stats)
+[![RenataPedroso's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenataPedroso&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>  
   <div style="display: inline_block"><br>
