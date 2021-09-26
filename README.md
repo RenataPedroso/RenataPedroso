@@ -9,10 +9,13 @@ Me reencontrei em um código <3 e hoje isso se tornou o que eu mais amo fazer
 
  <div>
   <a href="https://github.com/RenataPedroso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=false&count_private=false&disable_animations=false"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPedroso&layout=compact&langs_count=10&theme=dracula"/>
 </div>
-<div>  
+ 
+[![RenataPedroso's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenataPedroso)](https://github.com/anuraghazra/github-readme-stats)
+
+ <div>  
   <div style="display: inline_block"><br>
     <img align=-"center" alt="Renata-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
     <img align=-"center" alt="Renata-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/angularjs/angularjs-plain.svg">
