@@ -9,7 +9,7 @@ Me reencontrei em um código <3 e hoje isso se tornou o que eu mais amo fazer
 
  <div>
   <a href="https://github.com/RenataPedroso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenataPedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataPedroso&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <div>  
