@@ -3,7 +3,7 @@ Me reencontrei em um código <3 e hoje isso se tornou o que eu mais amo fazer
 
 ###
 
-- 🌱 Estudando Java com Spring Framework e Angular 10
+- 🌱 Estudando Java com .NET C# na Digital Innovation One
 - 📫 Me contate em renatanicollyy1@gmail.com
 - 😄 Pronúncia: ela/dela
 
