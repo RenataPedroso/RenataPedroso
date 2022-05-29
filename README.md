@@ -1,9 +1,9 @@
 # Olá! Eu sou a Renata :D (Hi! I'm Renata)
-Me reencontrei em um código <3 e hoje é o que eu mais amo fazer(I found myself in a code <3 and today is what I love to do the most)
+Me reencontrei em um código <3 e hoje é o que eu mais amo fazer! (I found myself in a code <3 and today is what I love to do the most)
 
 ###
 
-- 🌱 Estudando .NET C# pela Digital Innovation One(Studying .NET C# by Digital Innovation One)
+- 🌱 Estudando .NET C# pela Digital Innovation One (Studying .NET C# by Digital Innovation One)
 - 📫 Me contate em renatanicollyy1@gmail.com (contact me at renatanicollyy1@gmail.com)
 - 😄 Pronúncia: ela/dela (she/her)
 
